@@ -175,7 +175,7 @@ button {
   content: '';
   width: calc(100% - 60px);
   height: 7px;
-  background-color: #f3aeff;
+  background-color: #f6c0ff;
   position: absolute;
   top: -10px;
   left: 30px;
@@ -239,7 +239,7 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #958fea;
+  background-color: #898dff;
 }
 
 .bg-color--subcolor {
@@ -247,7 +247,7 @@ button {
 }
 
 .bg-color--gray {
-  background-color: #e6e6e6;
+  background-color: #d6d8ff;
 }
 
 /*********************
@@ -274,7 +274,7 @@ button {
   line-height: 1.75;
   text-align: center;
   padding: 9px 20px;
-  background-color: #f3aeff;
+  background-color: #f7c0ff;
   margin: 0 -20px 20px -20px;
 }
 
@@ -292,7 +292,7 @@ button {
 }
 
 .section-title--keycolor {
-  background-color: #39b54a;
+  background-color: #f7c0ff;
 }
 
 .section-title--story {
@@ -336,7 +336,7 @@ button {
   display: block;
   text-decoration: none;
   cursor: pointer;
-  background-color: #006837;
+  background-color: #7665ce;
   color: #fff;
   font-size: 24px;
   line-height: 1.54167;
@@ -356,7 +356,7 @@ button {
   position: absolute;
   top: calc(50% - 12px);
   right: 15px;
-  fill: #fff;
+  fill: #fd83ff;
   width: 12px;
   height: 24px;
 }
